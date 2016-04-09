@@ -1,7 +1,7 @@
 ---
 title: "CodeBook.rmd"
-author: "Emily Smenderovac"
-date: "April 8, 2016"
+author: "Jacopo Balocco"
+date: "April 9, 2016"
 output: html_document
 ---
 
